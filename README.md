@@ -1,4 +1,4 @@
-# Lumen
+# ✨ Lumin
 
 > A community-powered search engine for **learning anything** – where results are ranked by **helpfulness, novelty, and quality**, not by ads or SEO.
 
